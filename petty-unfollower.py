@@ -2,6 +2,7 @@ from instabot import Bot
 import maskpass
 import os
 import glob
+
 #import pyfiglet # when creating .exe with PyInstaller, make sure to include "--collect-all pyfiglet" flag !!!
 
 # for .exe --> "py -m PyInstaller -i example.ico --onefile .\petty-unfollower.py" ON WINDOWS SYSTEM 
