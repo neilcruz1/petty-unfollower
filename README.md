@@ -9,4 +9,4 @@ If you don't want to find every nonfollower in your account or use a program tha
 
 3/21/2024
 - Version 1.0 released. Features include listing all nonfollowers, unfollowing specific nonfollowers, and unfollowing all your nonfollowers (takes a little bit of time).
-- Windows (.exe) and Mac OSX (unix executable file) are the current releases for the operating systems. 
+- Released for Windows (.exe) and Mac OSX (unix executable file), will include download links soon!
