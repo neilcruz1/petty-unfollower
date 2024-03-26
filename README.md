@@ -1,5 +1,5 @@
 # Petty Unfollower
-- This is a brief Python script that uses the Instabot library that lets you see your nonfollowers in a command line interface. There are program/apps that accomplish this already, but this is a neat Python program that is cool to use and feel free to make changes. 
+- This is a brief Python script that uses the Instabot library that lets you see your nonfollowers in a command line interface. There are programs/apps that most likely and already accomplish this, but this is just a neat Python program that's cool to use. 
 - Works with Python version 3.5+
 
 # Libraries used:
