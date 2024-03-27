@@ -4,11 +4,11 @@
 # Requirements
 - Python version 3.5+
 
-# Libraries used:
+# Libraries used
 - Instabot
 - Maskpass
 
-# Latest Changes:
+# Latest Changes
 3/27/2024:
 - Unfollowing ALL non-followers function has delay issues and still needs fixing...
 - Quick demo --> https://www.youtube.com/watch?v=OYisUO8wVbI
@@ -16,4 +16,4 @@
 
 3/21/2024:
 - Version 1.0 released. Features include listing all nonfollowers, unfollowing specific nonfollowers, and unfollowing all your nonfollowers (takes a little bit of time).
-- Mac OSX version is still in process...
+
