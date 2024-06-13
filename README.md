@@ -7,6 +7,7 @@
 # Libraries used
 - Instabot
 - Maskpass
+- PyFiglet
 
 # Latest Changes
 3/27/2024:
