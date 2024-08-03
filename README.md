@@ -9,4 +9,4 @@
 - Run the script "py petty-unfollower.py" or "python petty-unfollower.py"
 
 # Demo
-![](https://github.com/petty-unfollower/Petty_Unfollower_CLI_Quick_Demo.gif)
+![](https://github.com/neilcruz1/petty-unfollower/Petty_Unfollower_CLI_Quick_Demo.gif)
